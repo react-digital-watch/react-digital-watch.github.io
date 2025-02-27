@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "react-digital-watch": {
+      "signature": "796b48105f092adce374640fedb8fda5",
+      "file": true,
+      "replaced": "^1.0.11"
+    }
+  }
+}

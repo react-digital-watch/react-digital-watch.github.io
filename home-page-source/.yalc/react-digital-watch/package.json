@@ -1,0 +1,35 @@
+{
+  "name": "react-digital-watch",
+  "type": "module",
+  "version": "1.0.13",
+  "description": "A simple digital watch component for React",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c rollup.config.mjs"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^16.20.2 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^16.20.2 || ^17.0.0 || ^18.0.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arifcseru/react-digital-watch.git"
+  },
+  "keywords": [
+    "react",
+    "digital watch",
+    "clock"
+  ],
+  "author": "Arifur Rahman",
+  "license": "MIT",
+  "readme": "README.md",
+  "dependencies": {
+    "tslib": "^2.8.1"
+  },
+  "yalcSig": "796b48105f092adce374640fedb8fda5"
+}
